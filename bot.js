@@ -1,3 +1,5 @@
+const Discord = require("discord.js");
+const client = new Discord.Client();
 const speed = [
     {
             "type": "https://cdn.discordapp.com/attachments/429298913980317696/429298994078810127/a90c6b270eb8bb2e.png",
